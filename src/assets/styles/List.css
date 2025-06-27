@@ -1,0 +1,8 @@
+li {
+    margin-bottom:20px;
+    padding-bottom:10px;
+    border-bottom:1px solid #949494;
+}
+li input {margin:0 10px; background:#fff;}
+li span {}
+li button {float:right;}

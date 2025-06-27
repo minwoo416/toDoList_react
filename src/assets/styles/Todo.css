@@ -1,0 +1,11 @@
+main {
+    text-align:center; position:relative; 
+    border:1px solid #949494;
+    border-radius:10px;
+    text-align:left;
+    display:flex; justify-content:space-between;
+    padding:5px 20px;
+    margin:20px 0 50px;
+}
+main input {}
+main button {}
